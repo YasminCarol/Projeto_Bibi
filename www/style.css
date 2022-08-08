@@ -1,0 +1,104 @@
+body{
+background-color: rgb(202, 175, 153);
+height: 100%;
+
+}
+
+.fundo{
+    height: 15vh;
+    background-image: url(bibi.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+     
+}
+
+h2{
+     margin-top: 15%;
+     margin-left: 5%;
+     font-family: Algerian;
+
+ }
+ h1{
+margin-top: 15%;
+     margin-left: 20%;
+     font-family: Algerian;
+ }
+
+#naruto{
+    background-color:yellowgreen;
+    text-align:center;
+    
+  
+  }
+
+.btn{
+     background-color:yellowgreen;
+ 
+      text-align: center;
+  }
+
+#Entrar{
+     background-color:yellowgreen;
+   text-align: center;
+   margin-top: 30%;
+   margin-left: 50px;
+
+  }
+
+.quadrado2{
+      background-color: rgb(110, 109, 105);
+      margin-top: 0%;
+      padding: 3%;
+      width: 70%;
+      height: 40%;
+      position: absolute;
+      left: 17%;
+  }
+
+  .link{
+margin-right: 10%;
+margin-top: 15%;
+
+
+  }
+
+  .link4{
+margin-right: 10px;
+margin-top: 15%;
+
+  }
+
+  
+  .link1{
+
+
+margin-top: 0%;
+margin-right: 50px;
+
+
+  }
+
+.link3{
+
+margin-top: 0%;
+}
+  .quadrado{
+      background-color:  rgb(110, 109, 105);;
+      margin-top: 0%;
+      padding: 2%;
+      width: 70%;
+      height: 20%;
+      position: absolute;
+      left: 17%;
+  }
+
+  .linha{
+  background-color: rgba(255, 255, 255, 0.911);
+  margin-top: 190px;
+      padding: 4%;
+      width: 75%;
+      height: 72%;
+      position: absolute;
+      left: 13%;
+  }
