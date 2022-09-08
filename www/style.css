@@ -102,3 +102,46 @@ margin-top: 0%;
       position: absolute;
       left: 13%;
   }
+
+  #divBusca{
+  background-color:#fafafa;
+  border:solid 1px;
+  border-radius:15px;
+  width:300px;
+  height: 40px;
+  margin-left: 80px;
+  margin-top: -50px;
+
+}
+
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:260px;
+}
+
+#foto{
+    left: 10px;
+    height: 140px;
+    width: 140px;
+    margin-top: 40px;
+
+}
+ p{
+margin-top: -120px;
+     margin-left: 20%;
+    margin-left:130px;
+     font-family: Algerian;
+     font-size: 60px;
+ }
+ #pesquisar{
+     margin-top: 10px;
+     margin-left: 90px;
+     background-color: black;
+    
+ }

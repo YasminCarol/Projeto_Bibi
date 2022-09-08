@@ -1,5 +1,5 @@
 <script type="text/javascript">
-    document.getElementById("btn").onclick = function () {
-        location.href = "Login.html";
+    document.getElementById("Entrar").onclick = function () {
+        location.href = "pagina.html"
     };
 </script>
