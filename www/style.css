@@ -38,7 +38,7 @@ margin-top: 15%;
       text-align: center;
   }
 
-#Entrar{
+#btn{
      background-color:yellowgreen;
    text-align: center;
    margin-top: 30%;
@@ -110,7 +110,7 @@ margin-top: 0%;
   width:300px;
   height: 40px;
   margin-left: 80px;
-  margin-top: -50px;
+  margin-top: -40px;
 
 }
 
@@ -121,8 +121,8 @@ margin-top: 0%;
   font-style:italic;
   font-size:18px;
   border:none;
-  height:32px;
-  width:260px;
+  height:37px;
+  width:295px;
 }
 
 #foto{
@@ -138,10 +138,18 @@ margin-top: -120px;
     margin-left:130px;
      font-family: Algerian;
      font-size: 60px;
+    
  }
  #pesquisar{
-     margin-top: 10px;
-     margin-left: 90px;
+     margin-top: 5px;
+     margin-left: 110px;
      background-color: black;
+     
     
+ }
+
+ #img1{
+margin-top: 180px;
+margin-left: -70px;
+
  }
